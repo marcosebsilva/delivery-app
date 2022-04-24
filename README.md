@@ -24,7 +24,7 @@ A role do seu login determina qual "fluxo" o aplicativo deverá seguir.
 ![Demo comprador](assets/readme/admin_demo.gif)
 
 ### Relações do banco de dados
-![Relacões](assets/readme/customer_demo.gif)
+![Relacões](assets/readme/eer.png)
 
 
 ## Tecnologias
