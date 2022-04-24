@@ -21,10 +21,11 @@ A role do seu login determina qual "fluxo" o aplicativo deverá seguir.
 
 ### Usuário administrador
 - O administrador é capaz de excluir usuários existentes e cadastrar novos usuários.
-![Demo comprador](assets/readme/eer.png)
+![Demo admin](assets/readme/customer_demo.gif)
+
 
 ### Relações do banco de dados
-![Relacões](assets/readme/customer_demo.gif)
+![Relacoes](assets/readme/eer.png)
 
 
 ## Tecnologias
