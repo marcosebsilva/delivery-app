@@ -49,6 +49,8 @@ O deploy foi desenvolvido em duas versões:
  - mongodb + mongoose na branch `principal`
  - mysql + sequelize na branch `mysql-sequelize`
 
+**Toda a configuração do deploy foi feita pela [@mayusatori.](https://github.com/mayusatori), assim como os testes.**
+
 
 
 ## Autores
